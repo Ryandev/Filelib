@@ -3,12 +3,9 @@
  Read/Write from/to files
  
  @author Ryan Powell
- @date 03-10-11
- @copyright
-     Copyright (c) 2011  Ryan Powell \n
-     Proprietary & Confidential \n
-     This file & associated documentation may not be used without the consent of the authors permission. \n
-     Undocumented use of this material is an infringement of copyright. \n
+ @date 22-12-12
+ @copyright Copyright (c) 2012  Ryan Powell 
+ @licence https://raw.github.com/mcCuppaT/Filelib/master/LICENSE
  */
 
 
