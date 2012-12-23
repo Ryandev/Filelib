@@ -5,7 +5,7 @@
  @author Ryan Powell
  @date 22-12-12
  @copyright Copyright (c) 2012  Ryan Powell 
- @licence https://raw.github.com/mcCuppaT/Filelib/master/LICENSE
+ @licence https://raw.github.com/Ryandev/Filelib/master/LICENSE
  */
 
 
